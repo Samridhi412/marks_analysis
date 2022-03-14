@@ -1,0 +1,4705 @@
+WARNING:root:RollNumber are not numeric RollNumber    101803002
+Submission           P1
+Marks                13
+Name: 0, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803002
+Submission           P2
+Marks                14
+Name: 1, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803002
+Submission           P3
+Marks                14
+Name: 2, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803003
+Submission           P1
+Marks                13
+Name: 3, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803003
+Submission           P2
+Marks                 X
+Name: 4, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803003
+Submission           P3
+Marks                 X
+Name: 5, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803004
+Submission           P1
+Marks                13
+Name: 6, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803004
+Submission           P2
+Marks                13
+Name: 7, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803004
+Submission           P3
+Marks                15
+Name: 8, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803005
+Submission           P1
+Marks                 X
+Name: 9, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803005
+Submission           P2
+Marks                14
+Name: 10, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803005
+Submission           P3
+Marks                15
+Name: 11, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803006
+Submission           P1
+Marks                15
+Name: 12, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803006
+Submission           P2
+Marks                 X
+Name: 13, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803006
+Submission           P4
+Marks                15
+Name: 14, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803008
+Submission           P1
+Marks                13
+Name: 15, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803008
+Submission           P2
+Marks                14
+Name: 16, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803008
+Submission           P3
+Marks                13
+Name: 17, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803010
+Submission           P1
+Marks                14
+Name: 18, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803010
+Submission           P2
+Marks                13
+Name: 19, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803010
+Submission           P3
+Marks                15
+Name: 20, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803011
+Submission           P1
+Marks                13
+Name: 21, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803011
+Submission           P2
+Marks                 X
+Name: 22, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803011
+Submission           P3
+Marks                13
+Name: 23, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803013
+Submission           P1
+Marks                15
+Name: 24, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803013
+Submission           P2
+Marks                15
+Name: 25, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803013
+Submission           P3
+Marks                14
+Name: 26, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803017
+Submission           P1
+Marks                13
+Name: 27, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803017
+Submission           P2
+Marks                15
+Name: 28, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803017
+Submission           P3
+Marks                13
+Name: 29, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803019
+Submission           P1
+Marks                13
+Name: 30, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803019
+Submission           P2
+Marks                15
+Name: 31, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803019
+Submission           P3
+Marks                14
+Name: 32, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803020
+Submission           P1
+Marks                15
+Name: 33, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803020
+Submission           P2
+Marks                15
+Name: 34, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803020
+Submission           P3
+Marks                14
+Name: 35, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803022
+Submission           P1
+Marks                15
+Name: 36, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803022
+Submission           P2
+Marks                15
+Name: 37, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803022
+Submission           P3
+Marks                15
+Name: 38, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803023
+Submission           P1
+Marks                15
+Name: 39, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803023
+Submission           P2
+Marks                14
+Name: 40, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803023
+Submission           P3
+Marks                13
+Name: 41, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803025
+Submission           P1
+Marks                14
+Name: 42, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803025
+Submission           P2
+Marks                13
+Name: 43, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803025
+Submission           P3
+Marks                15
+Name: 44, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803029
+Submission           P1
+Marks                15
+Name: 45, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803029
+Submission           P2
+Marks                15
+Name: 46, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803029
+Submission           P3
+Marks                13
+Name: 47, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803035
+Submission           P1
+Marks                13
+Name: 48, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803035
+Submission           P2
+Marks                15
+Name: 49, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803035
+Submission           P3
+Marks                14
+Name: 50, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803036
+Submission           P1
+Marks                13
+Name: 51, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803036
+Submission           P2
+Marks                15
+Name: 52, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803036
+Submission           P3
+Marks                13
+Name: 53, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803042
+Submission           P1
+Marks                13
+Name: 54, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803042
+Submission           P2
+Marks                15
+Name: 55, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803042
+Submission           P3
+Marks                14
+Name: 56, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803043
+Submission           P1
+Marks                14
+Name: 57, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803043
+Submission           P2
+Marks                15
+Name: 58, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803043
+Submission           P3
+Marks                13
+Name: 59, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803045
+Submission           P1
+Marks                13
+Name: 60, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803045
+Submission           P2
+Marks                14
+Name: 61, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803045
+Submission           P3
+Marks                15
+Name: 62, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803047
+Submission           P1
+Marks                13
+Name: 63, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803047
+Submission           P2
+Marks                 X
+Name: 64, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803047
+Submission           P3
+Marks                 X
+Name: 65, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803048
+Submission           P1
+Marks                14
+Name: 66, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803048
+Submission           P2
+Marks                13
+Name: 67, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803048
+Submission           P3
+Marks                13
+Name: 68, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803049
+Submission           P1
+Marks                13
+Name: 69, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803049
+Submission           P2
+Marks                 X
+Name: 70, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803049
+Submission           P3
+Marks                14
+Name: 71, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803051
+Submission           P1
+Marks                13
+Name: 72, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803051
+Submission           P2
+Marks                13
+Name: 73, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803051
+Submission           P3
+Marks                14
+Name: 74, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803059
+Submission           P4
+Marks                15
+Name: 75, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803059
+Submission           P5
+Marks                 X
+Name: 76, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803061
+Submission           P1
+Marks                13
+Name: 77, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803061
+Submission           P2
+Marks                13
+Name: 78, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803061
+Submission           P3
+Marks                15
+Name: 79, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803064
+Submission           P2
+Marks                15
+Name: 80, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803064
+Submission           P3
+Marks                14
+Name: 81, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803064
+Submission           P4
+Marks                 X
+Name: 82, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803065
+Submission           P1
+Marks                14
+Name: 83, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803065
+Submission           P2
+Marks                13
+Name: 84, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803065
+Submission           P3
+Marks                13
+Name: 85, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803075
+Submission           P1
+Marks                14
+Name: 86, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803075
+Submission           P2
+Marks                13
+Name: 87, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803075
+Submission           P4
+Marks                14
+Name: 88, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803084
+Submission           P1
+Marks                15
+Name: 89, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803084
+Submission           P2
+Marks                15
+Name: 90, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803084
+Submission           P3
+Marks                13
+Name: 91, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803089
+Submission           P1
+Marks                 X
+Name: 92, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803089
+Submission           P2
+Marks                14
+Name: 93, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803089
+Submission           P3
+Marks                 X
+Name: 94, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803095
+Submission           P1
+Marks                14
+Name: 95, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803095
+Submission           P2
+Marks                15
+Name: 96, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803095
+Submission           P3
+Marks                14
+Name: 97, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803097
+Submission           P1
+Marks                15
+Name: 98, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803097
+Submission           P3
+Marks                15
+Name: 99, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803099
+Submission           P1
+Marks                 X
+Name: 100, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803099
+Submission           P2
+Marks                15
+Name: 101, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803099
+Submission           P3
+Marks                15
+Name: 102, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803100
+Submission           P1
+Marks                14
+Name: 103, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803100
+Submission           P2
+Marks                14
+Name: 104, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803100
+Submission           P3
+Marks                15
+Name: 105, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803102
+Submission           P1
+Marks                14
+Name: 106, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803102
+Submission           P2
+Marks                15
+Name: 107, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803102
+Submission           P3
+Marks                14
+Name: 108, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803103
+Submission           P1
+Marks                14
+Name: 109, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803103
+Submission           P2
+Marks                15
+Name: 110, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803103
+Submission           P3
+Marks                15
+Name: 111, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803104
+Submission           P1
+Marks                13
+Name: 112, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803104
+Submission           P2
+Marks                13
+Name: 113, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803104
+Submission           P3
+Marks                15
+Name: 114, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803106
+Submission           P1
+Marks                14
+Name: 115, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803106
+Submission           P2
+Marks                13
+Name: 116, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803106
+Submission           P3
+Marks                13
+Name: 117, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803108
+Submission           P1
+Marks                14
+Name: 118, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803108
+Submission           P2
+Marks                13
+Name: 119, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803108
+Submission           P3
+Marks                13
+Name: 120, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803109
+Submission           P1
+Marks                14
+Name: 121, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803109
+Submission           P2
+Marks                14
+Name: 122, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803109
+Submission           P3
+Marks                15
+Name: 123, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803111
+Submission           P1
+Marks                14
+Name: 124, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803111
+Submission           P2
+Marks                 X
+Name: 125, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803111
+Submission           P3
+Marks                14
+Name: 126, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803112
+Submission           P1
+Marks                15
+Name: 127, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803112
+Submission           P2
+Marks                15
+Name: 128, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803112
+Submission           P3
+Marks                13
+Name: 129, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803115
+Submission           P1
+Marks                 X
+Name: 130, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803115
+Submission           P2
+Marks                13
+Name: 131, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803115
+Submission           P3
+Marks                15
+Name: 132, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803116
+Submission           P1
+Marks                15
+Name: 133, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803116
+Submission           P2
+Marks                 X
+Name: 134, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803116
+Submission           P4
+Marks                14
+Name: 135, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803118
+Submission           P1
+Marks                15
+Name: 136, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803118
+Submission           P2
+Marks                14
+Name: 137, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803118
+Submission           P3
+Marks                13
+Name: 138, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803121
+Submission           P1
+Marks                14
+Name: 139, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803121
+Submission           P2
+Marks                15
+Name: 140, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803121
+Submission           P3
+Marks                13
+Name: 141, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803122
+Submission           P1
+Marks                15
+Name: 142, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803122
+Submission           P2
+Marks                15
+Name: 143, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803122
+Submission           P3
+Marks                15
+Name: 144, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803123
+Submission           P1
+Marks                13
+Name: 145, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803123
+Submission           P2
+Marks                14
+Name: 146, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803123
+Submission           P3
+Marks                15
+Name: 147, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803126
+Submission           P1
+Marks                13
+Name: 148, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803126
+Submission           P2
+Marks                13
+Name: 149, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803126
+Submission           P3
+Marks                15
+Name: 150, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803128
+Submission           P4
+Marks                13
+Name: 151, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803128
+Submission           P5
+Marks                14
+Name: 152, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803132
+Submission           P1
+Marks                14
+Name: 153, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803132
+Submission           P2
+Marks                13
+Name: 154, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803132
+Submission           P3
+Marks                13
+Name: 155, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803135
+Submission           P1
+Marks                14
+Name: 156, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803135
+Submission           P2
+Marks                13
+Name: 157, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803135
+Submission           P3
+Marks                13
+Name: 158, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803137
+Submission           P1
+Marks                 X
+Name: 159, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803137
+Submission           P2
+Marks                15
+Name: 160, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803137
+Submission           P3
+Marks                15
+Name: 161, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803138
+Submission           P1
+Marks                13
+Name: 162, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803138
+Submission           P2
+Marks                14
+Name: 163, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803138
+Submission           P3
+Marks                15
+Name: 164, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803139
+Submission           P1
+Marks                13
+Name: 165, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803141
+Submission           P1
+Marks                14
+Name: 166, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803141
+Submission           P2
+Marks                 X
+Name: 167, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803141
+Submission           P3
+Marks                14
+Name: 168, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803142
+Submission           P1
+Marks                13
+Name: 169, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803142
+Submission           P2
+Marks                14
+Name: 170, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803142
+Submission           P3
+Marks                15
+Name: 171, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803143
+Submission           P1
+Marks                15
+Name: 172, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803143
+Submission           P2
+Marks                15
+Name: 173, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803143
+Submission           P3
+Marks                13
+Name: 174, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803146
+Submission           P4
+Marks                15
+Name: 175, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803146
+Submission           P5
+Marks                15
+Name: 176, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803147
+Submission           P1
+Marks                14
+Name: 177, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803147
+Submission           P2
+Marks                15
+Name: 178, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803147
+Submission           P3
+Marks                15
+Name: 179, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803149
+Submission           P1
+Marks                13
+Name: 180, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803149
+Submission           P2
+Marks                13
+Name: 181, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803151
+Submission           P1
+Marks                 X
+Name: 182, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803151
+Submission           P2
+Marks                13
+Name: 183, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803151
+Submission           P3
+Marks                 X
+Name: 184, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803152
+Submission           P1
+Marks                15
+Name: 185, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803152
+Submission           P2
+Marks                15
+Name: 186, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803152
+Submission           P3
+Marks                14
+Name: 187, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803154
+Submission           P1
+Marks                 X
+Name: 188, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803154
+Submission           P2
+Marks                13
+Name: 189, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803154
+Submission           P3
+Marks                13
+Name: 190, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803156
+Submission           P1
+Marks                 X
+Name: 191, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803156
+Submission           P2
+Marks                14
+Name: 192, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803156
+Submission           P3
+Marks                 X
+Name: 193, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803157
+Submission           P1
+Marks                15
+Name: 194, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803157
+Submission           P2
+Marks                13
+Name: 195, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803157
+Submission           P3
+Marks                14
+Name: 196, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803158
+Submission           P1
+Marks                15
+Name: 197, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803158
+Submission           P2
+Marks                15
+Name: 198, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803158
+Submission           P3
+Marks                14
+Name: 199, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803159
+Submission           P1
+Marks                15
+Name: 200, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803159
+Submission           P2
+Marks                 X
+Name: 201, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803159
+Submission           P3
+Marks                14
+Name: 202, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803162
+Submission           P4
+Marks                15
+Name: 203, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803162
+Submission           P5
+Marks                 X
+Name: 204, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803163
+Submission           P1
+Marks                15
+Name: 205, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803163
+Submission           P2
+Marks                14
+Name: 206, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803163
+Submission           P3
+Marks                15
+Name: 207, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803165
+Submission           P1
+Marks                15
+Name: 208, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803165
+Submission           P2
+Marks                15
+Name: 209, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803165
+Submission           P3
+Marks                15
+Name: 210, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803166
+Submission           P4
+Marks                 X
+Name: 211, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803166
+Submission           P5
+Marks                14
+Name: 212, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803167
+Submission           P1
+Marks                14
+Name: 213, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803167
+Submission           P2
+Marks                15
+Name: 214, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803167
+Submission           P4
+Marks                14
+Name: 215, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803169
+Submission           P1
+Marks                14
+Name: 216, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803169
+Submission           P2
+Marks                14
+Name: 217, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803169
+Submission           P3
+Marks                13
+Name: 218, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803170
+Submission           P1
+Marks                14
+Name: 219, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803170
+Submission           P2
+Marks                15
+Name: 220, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803170
+Submission           P3
+Marks                13
+Name: 221, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803171
+Submission           P1
+Marks                13
+Name: 222, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803171
+Submission           P2
+Marks                 X
+Name: 223, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803171
+Submission           P3
+Marks                15
+Name: 224, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803173
+Submission           P4
+Marks                15
+Name: 225, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803173
+Submission           P5
+Marks                13
+Name: 226, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803174
+Submission           P1
+Marks                14
+Name: 227, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803174
+Submission           P2
+Marks               NaN
+Name: 228, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803174
+Submission           P3
+Marks               NaN
+Name: 229, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803175
+Submission           P2
+Marks                15
+Name: 230, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803175
+Submission           P3
+Marks                13
+Name: 231, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803175
+Submission           P4
+Marks                15
+Name: 232, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803176
+Submission           P1
+Marks                14
+Name: 233, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803176
+Submission           P2
+Marks                13
+Name: 234, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803176
+Submission           P3
+Marks                14
+Name: 235, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803178
+Submission           P4
+Marks                14
+Name: 236, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803178
+Submission           P5
+Marks                14
+Name: 237, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803184
+Submission           P1
+Marks                13
+Name: 238, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803184
+Submission           P2
+Marks                15
+Name: 239, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803184
+Submission           P3
+Marks               NaN
+Name: 240, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803185
+Submission           P1
+Marks                13
+Name: 241, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803185
+Submission           P2
+Marks                14
+Name: 242, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803185
+Submission           P3
+Marks                14
+Name: 243, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803189
+Submission           P2
+Marks                14
+Name: 244, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803189
+Submission           P4
+Marks                13
+Name: 245, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803189
+Submission           P5
+Marks               NaN
+Name: 246, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803190
+Submission           P1
+Marks                15
+Name: 247, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803190
+Submission           P2
+Marks                14
+Name: 248, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803190
+Submission           P3
+Marks                15
+Name: 249, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803191
+Submission           P1
+Marks               NaN
+Name: 250, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803191
+Submission           P2
+Marks                13
+Name: 251, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803191
+Submission           P3
+Marks                13
+Name: 252, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803192
+Submission           P4
+Marks                13
+Name: 253, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803192
+Submission           P5
+Marks                13
+Name: 254, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803193
+Submission           P1
+Marks               NaN
+Name: 255, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803193
+Submission           P2
+Marks                15
+Name: 256, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803193
+Submission           P3
+Marks                14
+Name: 257, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803201
+Submission           P1
+Marks                14
+Name: 258, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803201
+Submission           P2
+Marks               NaN
+Name: 259, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803201
+Submission           P3
+Marks                13
+Name: 260, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803202
+Submission           P1
+Marks                13
+Name: 261, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803202
+Submission           P2
+Marks                13
+Name: 262, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803202
+Submission           P3
+Marks                15
+Name: 263, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803206
+Submission           P1
+Marks               NaN
+Name: 264, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803206
+Submission           P2
+Marks                14
+Name: 265, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803206
+Submission           P3
+Marks                15
+Name: 266, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803207
+Submission           P1
+Marks                13
+Name: 267, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803207
+Submission           P2
+Marks                15
+Name: 268, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803207
+Submission           P3
+Marks                15
+Name: 269, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803209
+Submission           P1
+Marks               NaN
+Name: 270, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803209
+Submission           P2
+Marks                15
+Name: 271, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803209
+Submission           P3
+Marks                13
+Name: 272, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803213
+Submission           P1
+Marks                13
+Name: 273, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803213
+Submission           P2
+Marks                13
+Name: 274, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803213
+Submission           P3
+Marks                15
+Name: 275, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803214
+Submission           P1
+Marks                14
+Name: 276, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803214
+Submission           P2
+Marks                15
+Name: 277, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803214
+Submission           P3
+Marks                15
+Name: 278, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803215
+Submission           P1
+Marks                13
+Name: 279, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803215
+Submission           P2
+Marks                15
+Name: 280, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803215
+Submission           P3
+Marks               NaN
+Name: 281, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803216
+Submission           P1
+Marks                14
+Name: 282, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803216
+Submission           P2
+Marks                14
+Name: 283, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803216
+Submission           P3
+Marks                14
+Name: 284, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803217
+Submission           P1
+Marks               NaN
+Name: 285, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803217
+Submission           P2
+Marks                13
+Name: 286, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803217
+Submission           P3
+Marks                13
+Name: 287, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803221
+Submission           P1
+Marks                13
+Name: 288, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803221
+Submission           P2
+Marks                15
+Name: 289, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803221
+Submission           P3
+Marks                13
+Name: 290, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803225
+Submission           P1
+Marks                14
+Name: 291, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803225
+Submission           P2
+Marks               NaN
+Name: 292, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803225
+Submission           P3
+Marks                15
+Name: 293, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803231
+Submission           P1
+Marks                14
+Name: 294, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803231
+Submission           P2
+Marks                13
+Name: 295, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803231
+Submission           P3
+Marks                15
+Name: 296, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803233
+Submission           P1
+Marks               NaN
+Name: 297, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803233
+Submission           P2
+Marks                15
+Name: 298, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803233
+Submission           P3
+Marks               NaN
+Name: 299, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803234
+Submission           P1
+Marks                13
+Name: 300, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803234
+Submission           P2
+Marks                15
+Name: 301, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803234
+Submission           P3
+Marks               NaN
+Name: 302, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803235
+Submission           P1
+Marks                13
+Name: 303, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803235
+Submission           P2
+Marks                15
+Name: 304, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803235
+Submission           P3
+Marks                15
+Name: 305, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803243
+Submission           P1
+Marks               NaN
+Name: 306, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803243
+Submission           P2
+Marks                15
+Name: 307, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803243
+Submission           P3
+Marks                14
+Name: 308, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803246
+Submission           P1
+Marks                14
+Name: 309, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803246
+Submission           P2
+Marks                13
+Name: 310, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803246
+Submission           P3
+Marks                14
+Name: 311, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803248
+Submission           P1
+Marks                15
+Name: 312, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803248
+Submission           P2
+Marks                13
+Name: 313, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803248
+Submission           P3
+Marks                14
+Name: 314, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803252
+Submission           P1
+Marks                14
+Name: 315, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803252
+Submission           P2
+Marks                15
+Name: 316, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803252
+Submission           P3
+Marks                15
+Name: 317, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803258
+Submission           P1
+Marks                15
+Name: 318, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803258
+Submission           P2
+Marks                13
+Name: 319, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803258
+Submission           P3
+Marks                15
+Name: 320, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803259
+Submission           P1
+Marks                13
+Name: 321, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803259
+Submission           P2
+Marks                13
+Name: 322, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803259
+Submission           P3
+Marks                14
+Name: 323, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803268
+Submission           P1
+Marks                13
+Name: 324, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803268
+Submission           P2
+Marks                15
+Name: 325, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803268
+Submission           P3
+Marks                15
+Name: 326, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803269
+Submission           P1
+Marks                15
+Name: 327, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803269
+Submission           P3
+Marks                15
+Name: 328, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803269
+Submission           P4
+Marks                14
+Name: 329, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803271
+Submission           P1
+Marks                13
+Name: 330, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803271
+Submission           P2
+Marks                15
+Name: 331, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803271
+Submission           P3
+Marks                15
+Name: 332, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803272
+Submission           P1
+Marks                13
+Name: 333, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803272
+Submission           P2
+Marks                14
+Name: 334, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803272
+Submission           P3
+Marks                13
+Name: 335, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803273
+Submission           P1
+Marks                15
+Name: 336, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803273
+Submission           P2
+Marks                13
+Name: 337, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803273
+Submission           P5
+Marks                15
+Name: 338, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803277
+Submission           P1
+Marks                14
+Name: 339, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803277
+Submission           P3
+Marks                14
+Name: 340, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803278
+Submission           P1
+Marks                13
+Name: 341, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803278
+Submission           P3
+Marks                13
+Name: 342, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803279
+Submission           P1
+Marks                13
+Name: 343, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803279
+Submission           P2
+Marks                15
+Name: 344, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803279
+Submission           P3
+Marks                14
+Name: 345, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803281
+Submission           P1
+Marks               NaN
+Name: 346, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803281
+Submission           P2
+Marks                13
+Name: 347, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803281
+Submission           P3
+Marks                13
+Name: 348, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803284
+Submission           P1
+Marks                13
+Name: 349, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803284
+Submission           P2
+Marks                13
+Name: 350, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803284
+Submission           P3
+Marks                14
+Name: 351, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803290
+Submission           P1
+Marks                15
+Name: 352, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803290
+Submission           P2
+Marks                15
+Name: 353, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803290
+Submission           P3
+Marks                13
+Name: 354, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803292
+Submission           P4
+Marks                15
+Name: 355, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803292
+Submission           P5
+Marks                15
+Name: 356, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803293
+Submission           P1
+Marks                15
+Name: 357, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803293
+Submission           P2
+Marks                13
+Name: 358, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803293
+Submission           P3
+Marks                15
+Name: 359, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803295
+Submission           P1
+Marks                13
+Name: 360, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803295
+Submission           P2
+Marks                15
+Name: 361, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803295
+Submission           P3
+Marks                14
+Name: 362, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803298
+Submission           P1
+Marks                13
+Name: 363, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803298
+Submission           P2
+Marks                14
+Name: 364, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803298
+Submission           P3
+Marks                13
+Name: 365, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803308
+Submission           P1
+Marks               NaN
+Name: 366, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803308
+Submission           P2
+Marks                13
+Name: 367, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803308
+Submission           P3
+Marks                14
+Name: 368, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803315
+Submission           P1
+Marks                15
+Name: 369, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803315
+Submission           P3
+Marks               NaN
+Name: 370, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803318
+Submission           P1
+Marks                13
+Name: 371, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803318
+Submission           P2
+Marks                13
+Name: 372, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803318
+Submission           P3
+Marks                14
+Name: 373, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803319
+Submission           P1
+Marks                13
+Name: 374, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803319
+Submission           P2
+Marks                15
+Name: 375, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803319
+Submission           P3
+Marks               NaN
+Name: 376, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803321
+Submission           P2
+Marks                13
+Name: 377, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803321
+Submission           P3
+Marks                14
+Name: 378, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803324
+Submission           P1
+Marks                15
+Name: 379, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803324
+Submission           P2
+Marks                13
+Name: 380, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803324
+Submission           P3
+Marks                15
+Name: 381, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803327
+Submission           P1
+Marks                15
+Name: 382, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803327
+Submission           P2
+Marks                14
+Name: 383, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803327
+Submission           P3
+Marks                14
+Name: 384, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803329
+Submission           P1
+Marks                15
+Name: 385, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803329
+Submission           P2
+Marks                13
+Name: 386, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803329
+Submission           P3
+Marks                14
+Name: 387, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803333
+Submission           P1
+Marks                14
+Name: 388, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803333
+Submission           P2
+Marks                13
+Name: 389, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803334
+Submission           P1
+Marks                14
+Name: 390, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803334
+Submission           P2
+Marks                14
+Name: 391, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803334
+Submission           P3
+Marks                13
+Name: 392, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803342
+Submission           P1
+Marks                15
+Name: 393, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803342
+Submission           P2
+Marks                13
+Name: 394, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803342
+Submission           P3
+Marks               NaN
+Name: 395, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803346
+Submission           P1
+Marks                13
+Name: 396, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803346
+Submission           P2
+Marks                15
+Name: 397, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803346
+Submission           P3
+Marks                14
+Name: 398, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803352
+Submission           P1
+Marks                13
+Name: 399, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803352
+Submission           P2
+Marks                13
+Name: 400, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803352
+Submission           P3
+Marks                14
+Name: 401, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803359
+Submission           P1
+Marks                14
+Name: 402, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803359
+Submission           P2
+Marks                15
+Name: 403, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803359
+Submission           P3
+Marks                15
+Name: 404, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803364
+Submission           P1
+Marks                14
+Name: 405, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803364
+Submission           P2
+Marks                14
+Name: 406, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803364
+Submission           P3
+Marks                15
+Name: 407, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803365
+Submission           P1
+Marks                14
+Name: 408, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803365
+Submission           P2
+Marks                14
+Name: 409, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803365
+Submission           P3
+Marks                13
+Name: 410, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803366
+Submission           P1
+Marks                15
+Name: 411, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803366
+Submission           P2
+Marks                15
+Name: 412, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803366
+Submission           P3
+Marks                13
+Name: 413, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803368
+Submission           P3
+Marks                15
+Name: 414, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803372
+Submission           P1
+Marks                15
+Name: 415, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803372
+Submission           P2
+Marks                13
+Name: 416, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803372
+Submission           P3
+Marks                14
+Name: 417, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803384
+Submission           P1
+Marks                14
+Name: 418, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803384
+Submission           P2
+Marks                13
+Name: 419, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803384
+Submission           P3
+Marks                13
+Name: 420, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803385
+Submission           P4
+Marks                13
+Name: 421, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803385
+Submission           P5
+Marks                13
+Name: 422, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803389
+Submission           P1
+Marks                13
+Name: 423, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803389
+Submission           P2
+Marks                13
+Name: 424, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803389
+Submission           P3
+Marks                13
+Name: 425, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803390
+Submission           P1
+Marks                14
+Name: 426, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803390
+Submission           P2
+Marks                14
+Name: 427, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803390
+Submission           P3
+Marks               NaN
+Name: 428, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803396
+Submission           P1
+Marks                13
+Name: 429, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803396
+Submission           P2
+Marks                13
+Name: 430, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803396
+Submission           P3
+Marks                14
+Name: 431, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803397
+Submission           P1
+Marks                15
+Name: 432, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803397
+Submission           P2
+Marks               NaN
+Name: 433, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803397
+Submission           P3
+Marks                13
+Name: 434, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803400
+Submission           P2
+Marks                13
+Name: 435, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803400
+Submission           P3
+Marks                14
+Name: 436, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803401
+Submission           P1
+Marks                15
+Name: 437, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803401
+Submission           P2
+Marks               NaN
+Name: 438, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803401
+Submission           P3
+Marks               NaN
+Name: 439, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803402
+Submission           P1
+Marks                14
+Name: 440, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803402
+Submission           P2
+Marks                15
+Name: 441, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803402
+Submission           P3
+Marks                14
+Name: 442, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803405
+Submission           P1
+Marks                13
+Name: 443, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803405
+Submission           P2
+Marks                15
+Name: 444, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803405
+Submission           P3
+Marks                14
+Name: 445, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803407
+Submission           P1
+Marks               NaN
+Name: 446, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803407
+Submission           P2
+Marks                14
+Name: 447, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803407
+Submission           P3
+Marks               NaN
+Name: 448, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803408
+Submission           P1
+Marks                15
+Name: 449, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803408
+Submission           P2
+Marks                13
+Name: 450, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803408
+Submission           P3
+Marks                13
+Name: 451, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803409
+Submission           P4
+Marks                14
+Name: 452, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803409
+Submission           P5
+Marks                15
+Name: 453, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803411
+Submission           P1
+Marks                15
+Name: 454, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803411
+Submission           P2
+Marks                14
+Name: 455, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803411
+Submission           P3
+Marks                13
+Name: 456, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803412
+Submission           P1
+Marks                13
+Name: 457, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803412
+Submission           P2
+Marks                14
+Name: 458, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803412
+Submission           P3
+Marks                15
+Name: 459, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803413
+Submission           P1
+Marks                14
+Name: 460, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803413
+Submission           P2
+Marks                14
+Name: 461, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803413
+Submission           P3
+Marks                13
+Name: 462, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803414
+Submission           P4
+Marks                15
+Name: 463, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803414
+Submission           P5
+Marks                13
+Name: 464, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803415
+Submission           P4
+Marks                14
+Name: 465, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803415
+Submission           P5
+Marks                15
+Name: 466, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803419
+Submission           P1
+Marks                13
+Name: 467, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803419
+Submission           P2
+Marks                15
+Name: 468, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803419
+Submission           P3
+Marks                13
+Name: 469, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803431
+Submission           P1
+Marks               NaN
+Name: 470, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803431
+Submission           P2
+Marks                15
+Name: 471, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803431
+Submission           P3
+Marks                14
+Name: 472, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803432
+Submission           P1
+Marks                14
+Name: 473, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803432
+Submission           P2
+Marks                13
+Name: 474, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803440
+Submission           P1
+Marks               NaN
+Name: 475, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803440
+Submission           P2
+Marks                15
+Name: 476, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803440
+Submission           P3
+Marks                13
+Name: 477, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803453
+Submission           P1
+Marks                14
+Name: 478, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803453
+Submission           P2
+Marks                15
+Name: 479, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803453
+Submission           P3
+Marks                13
+Name: 480, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803454
+Submission           P1
+Marks                13
+Name: 481, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803454
+Submission           P2
+Marks                14
+Name: 482, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803454
+Submission           P3
+Marks                13
+Name: 483, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803456
+Submission           P1
+Marks                14
+Name: 484, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803456
+Submission           P2
+Marks                15
+Name: 485, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803456
+Submission           P3
+Marks                15
+Name: 486, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803457
+Submission           P1
+Marks                14
+Name: 487, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803457
+Submission           P2
+Marks               NaN
+Name: 488, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803457
+Submission           P3
+Marks               NaN
+Name: 489, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803461
+Submission           P1
+Marks                 0
+Name: 490, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803461
+Submission           P2
+Marks               NaN
+Name: 491, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803461
+Submission           P3
+Marks                 0
+Name: 492, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803463
+Submission           P1
+Marks                13
+Name: 493, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803463
+Submission           P2
+Marks                14
+Name: 494, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803463
+Submission           P3
+Marks                13
+Name: 495, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803466
+Submission           P1
+Marks                13
+Name: 496, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803466
+Submission           P2
+Marks                14
+Name: 497, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803466
+Submission           P3
+Marks                15
+Name: 498, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803469
+Submission           P1
+Marks                13
+Name: 499, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803469
+Submission           P2
+Marks               NAN
+Name: 500, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803469
+Submission           P3
+Marks                13
+Name: 501, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803470
+Submission           P1
+Marks                13
+Name: 502, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803470
+Submission           P2
+Marks                13
+Name: 503, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803470
+Submission           P3
+Marks               NAN
+Name: 504, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803472
+Submission           P1
+Marks                15
+Name: 505, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803472
+Submission           P2
+Marks                15
+Name: 506, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803472
+Submission           P3
+Marks                13
+Name: 507, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803473
+Submission           P1
+Marks                13
+Name: 508, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803473
+Submission           P2
+Marks                13
+Name: 509, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803473
+Submission           P3
+Marks                15
+Name: 510, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803476
+Submission           P4
+Marks                14
+Name: 511, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803476
+Submission           P5
+Marks               NAN
+Name: 512, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803479
+Submission           P1
+Marks                13
+Name: 513, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803479
+Submission           P2
+Marks               NAN
+Name: 514, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803479
+Submission           P3
+Marks                14
+Name: 515, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803482
+Submission           P1
+Marks                15
+Name: 516, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803482
+Submission           P2
+Marks                13
+Name: 517, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803482
+Submission           P3
+Marks                13
+Name: 518, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803487
+Submission           P1
+Marks                14
+Name: 519, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803487
+Submission           P2
+Marks               NAN
+Name: 520, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803487
+Submission           P3
+Marks                15
+Name: 521, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803491
+Submission           P1
+Marks                15
+Name: 522, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803491
+Submission           P2
+Marks                14
+Name: 523, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803491
+Submission           P3
+Marks                14
+Name: 524, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803492
+Submission           P1
+Marks               NAN
+Name: 525, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803492
+Submission           P2
+Marks                13
+Name: 526, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803492
+Submission           P3
+Marks                15
+Name: 527, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803494
+Submission           P1
+Marks                14
+Name: 528, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803494
+Submission           P2
+Marks                13
+Name: 529, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803494
+Submission           P3
+Marks                14
+Name: 530, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803496
+Submission           P1
+Marks                14
+Name: 531, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803496
+Submission           P2
+Marks                13
+Name: 532, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803496
+Submission           P3
+Marks                14
+Name: 533, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803499
+Submission           P1
+Marks                15
+Name: 534, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803499
+Submission           P2
+Marks                15
+Name: 535, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803499
+Submission           P3
+Marks               NAN
+Name: 536, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803502
+Submission           P1
+Marks                13
+Name: 537, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803502
+Submission           P2
+Marks                13
+Name: 538, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803502
+Submission           P3
+Marks                13
+Name: 539, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803503
+Submission           P1
+Marks                13
+Name: 540, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803503
+Submission           P2
+Marks                13
+Name: 541, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803503
+Submission           P3
+Marks                13
+Name: 542, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803504
+Submission           P1
+Marks                14
+Name: 543, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803504
+Submission           P2
+Marks                14
+Name: 544, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803504
+Submission           P3
+Marks                14
+Name: 545, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803506
+Submission           P1
+Marks                14
+Name: 546, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803506
+Submission           P2
+Marks                14
+Name: 547, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803506
+Submission           P3
+Marks                14
+Name: 548, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803511
+Submission           P4
+Marks               NAN
+Name: 549, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803511
+Submission           P5
+Marks               NAN
+Name: 550, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803512
+Submission           P1
+Marks               NAN
+Name: 551, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803512
+Submission           P2
+Marks                13
+Name: 552, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803512
+Submission           P3
+Marks                15
+Name: 553, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803516
+Submission           P1
+Marks                14
+Name: 554, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803516
+Submission           P2
+Marks                13
+Name: 555, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803522
+Submission           P1
+Marks                13
+Name: 556, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803522
+Submission           P2
+Marks                14
+Name: 557, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803522
+Submission           P3
+Marks                14
+Name: 558, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803523
+Submission           P1
+Marks                14
+Name: 559, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803523
+Submission           P2
+Marks                13
+Name: 560, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803523
+Submission           P3
+Marks                13
+Name: 561, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803526
+Submission           P1
+Marks                13
+Name: 562, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803526
+Submission           P2
+Marks                13
+Name: 563, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803526
+Submission           P3
+Marks                14
+Name: 564, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803528
+Submission           P4
+Marks                13
+Name: 565, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803528
+Submission           P5
+Marks                14
+Name: 566, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803529
+Submission           P1
+Marks                15
+Name: 567, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803529
+Submission           P2
+Marks                15
+Name: 568, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803529
+Submission           P3
+Marks                13
+Name: 569, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803531
+Submission           P1
+Marks                13
+Name: 570, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803531
+Submission           P2
+Marks                13
+Name: 571, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803531
+Submission           P3
+Marks                14
+Name: 572, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803533
+Submission           P1
+Marks                13
+Name: 573, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803533
+Submission           P2
+Marks                15
+Name: 574, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803533
+Submission           P3
+Marks                13
+Name: 575, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803536
+Submission           P4
+Marks                14
+Name: 576, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803536
+Submission           P5
+Marks                13
+Name: 577, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803542
+Submission           P1
+Marks                14
+Name: 578, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803542
+Submission           P2
+Marks                14
+Name: 579, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803542
+Submission           P3
+Marks               NAN
+Name: 580, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803543
+Submission           P1
+Marks                14
+Name: 581, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803543
+Submission           P2
+Marks                14
+Name: 582, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803543
+Submission           P3
+Marks                14
+Name: 583, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803544
+Submission           P1
+Marks                13
+Name: 584, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803544
+Submission           P2
+Marks                14
+Name: 585, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803544
+Submission           P3
+Marks                15
+Name: 586, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803545
+Submission           P1
+Marks                13
+Name: 587, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803545
+Submission           P2
+Marks                15
+Name: 588, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803545
+Submission           P3
+Marks                13
+Name: 589, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803546
+Submission           P1
+Marks                14
+Name: 590, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803546
+Submission           P2
+Marks                14
+Name: 591, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803546
+Submission           P4
+Marks                15
+Name: 592, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803549
+Submission           P1
+Marks                15
+Name: 593, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803549
+Submission           P3
+Marks                14
+Name: 594, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803549
+Submission           P4
+Marks                15
+Name: 595, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803559
+Submission           P2
+Marks                13
+Name: 596, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803559
+Submission           P3
+Marks                14
+Name: 597, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803561
+Submission           P1
+Marks                15
+Name: 598, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803561
+Submission           P2
+Marks                15
+Name: 599, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803561
+Submission           P3
+Marks                13
+Name: 600, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803562
+Submission           P1
+Marks                15
+Name: 601, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803562
+Submission           P2
+Marks                14
+Name: 602, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803562
+Submission           P3
+Marks                13
+Name: 603, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803562
+Submission           P4
+Marks                15
+Name: 604, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803562
+Submission           P5
+Marks                14
+Name: 605, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803564
+Submission           P1
+Marks               NAN
+Name: 606, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803564
+Submission           P2
+Marks                15
+Name: 607, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803564
+Submission           P3
+Marks                14
+Name: 608, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803567
+Submission           P1
+Marks                13
+Name: 609, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803567
+Submission           P2
+Marks                15
+Name: 610, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803573
+Submission           P1
+Marks                14
+Name: 611, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803573
+Submission           P2
+Marks                15
+Name: 612, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803573
+Submission           P3
+Marks                15
+Name: 613, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803575
+Submission           P1
+Marks                13
+Name: 614, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803575
+Submission           P2
+Marks                15
+Name: 615, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803575
+Submission           P3
+Marks               NAN
+Name: 616, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803579
+Submission           P1
+Marks                14
+Name: 617, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803579
+Submission           P2
+Marks                15
+Name: 618, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803579
+Submission           P3
+Marks               NAN
+Name: 619, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803580
+Submission           P1
+Marks                13
+Name: 620, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803580
+Submission           P2
+Marks               NAN
+Name: 621, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803580
+Submission           P3
+Marks                15
+Name: 622, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803581
+Submission           P1
+Marks                15
+Name: 623, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803581
+Submission           P2
+Marks                15
+Name: 624, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803581
+Submission           P3
+Marks                13
+Name: 625, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803585
+Submission           P1
+Marks                13
+Name: 626, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803585
+Submission           P2
+Marks                15
+Name: 627, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803585
+Submission           P3
+Marks                14
+Name: 628, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803589
+Submission           P1
+Marks                14
+Name: 629, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803589
+Submission           P2
+Marks                13
+Name: 630, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803589
+Submission           P3
+Marks                13
+Name: 631, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803590
+Submission           P1
+Marks               NAN
+Name: 632, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803590
+Submission           P2
+Marks                15
+Name: 633, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803590
+Submission           P3
+Marks               NAN
+Name: 634, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803591
+Submission           P1
+Marks                15
+Name: 635, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803591
+Submission           P2
+Marks                13
+Name: 636, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803591
+Submission           P3
+Marks                14
+Name: 637, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803594
+Submission           P1
+Marks                13
+Name: 638, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803594
+Submission           P2
+Marks                13
+Name: 639, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803594
+Submission           P3
+Marks                 0
+Name: 640, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803595
+Submission           P1
+Marks                15
+Name: 641, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803595
+Submission           P2
+Marks                13
+Name: 642, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803595
+Submission           P3
+Marks                14
+Name: 643, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803596
+Submission           P1
+Marks                13
+Name: 644, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803596
+Submission           P2
+Marks                15
+Name: 645, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803596
+Submission           P3
+Marks                15
+Name: 646, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803598
+Submission           P1
+Marks                14
+Name: 647, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803598
+Submission           P2
+Marks                14
+Name: 648, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803598
+Submission           P3
+Marks                13
+Name: 649, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803600
+Submission           P1
+Marks                14
+Name: 650, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803600
+Submission           P2
+Marks                15
+Name: 651, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803600
+Submission           P3
+Marks                14
+Name: 652, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803601
+Submission           P1
+Marks                15
+Name: 653, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803601
+Submission           P2
+Marks               NAN
+Name: 654, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803601
+Submission           P3
+Marks                14
+Name: 655, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803603
+Submission           P1
+Marks                15
+Name: 656, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803603
+Submission           P2
+Marks                14
+Name: 657, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803603
+Submission           P3
+Marks               NAN
+Name: 658, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803604
+Submission           P1
+Marks                15
+Name: 659, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803604
+Submission           P2
+Marks                15
+Name: 660, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803604
+Submission           P3
+Marks                13
+Name: 661, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803605
+Submission           P1
+Marks                15
+Name: 662, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803605
+Submission           P2
+Marks                15
+Name: 663, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803605
+Submission           P3
+Marks                13
+Name: 664, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803606
+Submission           P1
+Marks                14
+Name: 665, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803606
+Submission           P2
+Marks                14
+Name: 666, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803606
+Submission           P3
+Marks                14
+Name: 667, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803608
+Submission           P1
+Marks                14
+Name: 668, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803608
+Submission           P2
+Marks                15
+Name: 669, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803608
+Submission           P3
+Marks                14
+Name: 670, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803609
+Submission           P1
+Marks                15
+Name: 671, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803609
+Submission           P2
+Marks                13
+Name: 672, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803609
+Submission           P4
+Marks                15
+Name: 673, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803610
+Submission           P1
+Marks                13
+Name: 674, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803610
+Submission           P2
+Marks                15
+Name: 675, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803611
+Submission           P1
+Marks                14
+Name: 676, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803611
+Submission           P2
+Marks               NAN
+Name: 677, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803611
+Submission           P3
+Marks                14
+Name: 678, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803613
+Submission           P1
+Marks                15
+Name: 679, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803613
+Submission           P2
+Marks                15
+Name: 680, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803613
+Submission           P3
+Marks               NAN
+Name: 681, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803614
+Submission           P1
+Marks                14
+Name: 682, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803614
+Submission           P2
+Marks               NAN
+Name: 683, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803614
+Submission           P3
+Marks                14
+Name: 684, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803617
+Submission           P1
+Marks                14
+Name: 685, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803617
+Submission           P2
+Marks                13
+Name: 686, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803617
+Submission           P3
+Marks                14
+Name: 687, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803618
+Submission           P1
+Marks                15
+Name: 688, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803618
+Submission           P2
+Marks                13
+Name: 689, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803618
+Submission           P3
+Marks                15
+Name: 690, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803620
+Submission           P1
+Marks                13
+Name: 691, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803620
+Submission           P2
+Marks                14
+Name: 692, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803620
+Submission           P3
+Marks                15
+Name: 693, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803623
+Submission           P1
+Marks                13
+Name: 694, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803623
+Submission           P2
+Marks                15
+Name: 695, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803623
+Submission           P3
+Marks                13
+Name: 696, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803624
+Submission           P1
+Marks                15
+Name: 697, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803624
+Submission           P2
+Marks               NAN
+Name: 698, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803624
+Submission           P3
+Marks                15
+Name: 699, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803625
+Submission           P1
+Marks                13
+Name: 700, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803625
+Submission           P2
+Marks                13
+Name: 701, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803625
+Submission           P3
+Marks                14
+Name: 702, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803628
+Submission           P1
+Marks                14
+Name: 703, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803628
+Submission           P2
+Marks                14
+Name: 704, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803628
+Submission           P3
+Marks                13
+Name: 705, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803635
+Submission           P1
+Marks                13
+Name: 706, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803635
+Submission           P2
+Marks                15
+Name: 707, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803635
+Submission           P3
+Marks                13
+Name: 708, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803637
+Submission           P1
+Marks                14
+Name: 709, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803637
+Submission           P2
+Marks                13
+Name: 710, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803637
+Submission           P3
+Marks                13
+Name: 711, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803638
+Submission           P1
+Marks                15
+Name: 712, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803638
+Submission           P2
+Marks                15
+Name: 713, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803638
+Submission           P3
+Marks                15
+Name: 714, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803644
+Submission           P1
+Marks                15
+Name: 715, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803644
+Submission           P2
+Marks                13
+Name: 716, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803644
+Submission           P3
+Marks               NAN
+Name: 717, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803650
+Submission           P1
+Marks                13
+Name: 718, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803650
+Submission           P2
+Marks                13
+Name: 719, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803650
+Submission           P3
+Marks                13
+Name: 720, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803651
+Submission           P1
+Marks                14
+Name: 721, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803651
+Submission           P2
+Marks                15
+Name: 722, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803655
+Submission           P1
+Marks                15
+Name: 723, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803655
+Submission           P2
+Marks                15
+Name: 724, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803655
+Submission           P3
+Marks                13
+Name: 725, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803660
+Submission           P1
+Marks                15
+Name: 726, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803660
+Submission           P2
+Marks               NAN
+Name: 727, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803660
+Submission           P3
+Marks               NAN
+Name: 728, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803669
+Submission           P1
+Marks                15
+Name: 729, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803669
+Submission           P2
+Marks                15
+Name: 730, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803669
+Submission           P3
+Marks                14
+Name: 731, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803670
+Submission           P1
+Marks                14
+Name: 732, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803670
+Submission           P2
+Marks                15
+Name: 733, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803670
+Submission           P3
+Marks                13
+Name: 734, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803671
+Submission           P1
+Marks               NAN
+Name: 735, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803671
+Submission           P2
+Marks                15
+Name: 736, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803671
+Submission           P3
+Marks                13
+Name: 737, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803674
+Submission           P1
+Marks                13
+Name: 738, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803674
+Submission           P2
+Marks                13
+Name: 739, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803674
+Submission           P3
+Marks                14
+Name: 740, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803676
+Submission           P1
+Marks                13
+Name: 741, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803676
+Submission           P2
+Marks                15
+Name: 742, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803676
+Submission           P3
+Marks                14
+Name: 743, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803683
+Submission           P1
+Marks                13
+Name: 744, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803683
+Submission           P2
+Marks                14
+Name: 745, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803683
+Submission           P3
+Marks                14
+Name: 746, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803685
+Submission           P1
+Marks                13
+Name: 747, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803685
+Submission           P2
+Marks               NAN
+Name: 748, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803685
+Submission           P3
+Marks                14
+Name: 749, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803686
+Submission           P1
+Marks                14
+Name: 750, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803686
+Submission           P2
+Marks                15
+Name: 751, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803686
+Submission           P3
+Marks                14
+Name: 752, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803688
+Submission           P1
+Marks                14
+Name: 753, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803688
+Submission           P2
+Marks                13
+Name: 754, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803688
+Submission           P3
+Marks                13
+Name: 755, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803689
+Submission           P1
+Marks                14
+Name: 756, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803689
+Submission           P2
+Marks               NAN
+Name: 757, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803689
+Submission           P3
+Marks               NAN
+Name: 758, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803690
+Submission           P1
+Marks                14
+Name: 759, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803690
+Submission           P2
+Marks                14
+Name: 760, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803690
+Submission           P3
+Marks                14
+Name: 761, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803691
+Submission           P1
+Marks               NAN
+Name: 762, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803691
+Submission           P2
+Marks                14
+Name: 763, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803691
+Submission           P3
+Marks                15
+Name: 764, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803692
+Submission           P1
+Marks                13
+Name: 765, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803692
+Submission           P2
+Marks                15
+Name: 766, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803692
+Submission           P3
+Marks               NAN
+Name: 767, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803693
+Submission           P1
+Marks                14
+Name: 768, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803693
+Submission           P2
+Marks                15
+Name: 769, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803693
+Submission           P3
+Marks                13
+Name: 770, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803696
+Submission           P1
+Marks                15
+Name: 771, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803696
+Submission           P2
+Marks                14
+Name: 772, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803696
+Submission           P3
+Marks                13
+Name: 773, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803699
+Submission           P4
+Marks                15
+Name: 774, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803699
+Submission           P5
+Marks                13
+Name: 775, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803702
+Submission           P1
+Marks                15
+Name: 776, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803702
+Submission           P2
+Marks                14
+Name: 777, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803702
+Submission           P3
+Marks                15
+Name: 778, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803705
+Submission           P1
+Marks                13
+Name: 779, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803705
+Submission           P2
+Marks                14
+Name: 780, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803705
+Submission           P3
+Marks                14
+Name: 781, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803706
+Submission           P1
+Marks                14
+Name: 782, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803706
+Submission           P2
+Marks                13
+Name: 783, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803706
+Submission           P3
+Marks                15
+Name: 784, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803708
+Submission           P1
+Marks                15
+Name: 785, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803708
+Submission           P2
+Marks                14
+Name: 786, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803708
+Submission           P3
+Marks                14
+Name: 787, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803714
+Submission           P1
+Marks                14
+Name: 788, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803714
+Submission           P2
+Marks                14
+Name: 789, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803715
+Submission           P1
+Marks                14
+Name: 790, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803715
+Submission           P2
+Marks                15
+Name: 791, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803715
+Submission           P3
+Marks                15
+Name: 792, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803720
+Submission           P1
+Marks                14
+Name: 793, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803720
+Submission           P2
+Marks                13
+Name: 794, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803720
+Submission           P3
+Marks                14
+Name: 795, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803725
+Submission           P1
+Marks                15
+Name: 796, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803725
+Submission           P2
+Marks                14
+Name: 797, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803728
+Submission           P1
+Marks                13
+Name: 798, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803728
+Submission           P2
+Marks                13
+Name: 799, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101803728
+Submission           P3
+Marks                14
+Name: 800, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816001
+Submission           P1
+Marks                13
+Name: 801, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816001
+Submission           P2
+Marks                14
+Name: 802, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816001
+Submission           P3
+Marks                14
+Name: 803, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816003
+Submission           P4
+Marks                15
+Name: 804, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816003
+Submission           P5
+Marks                15
+Name: 805, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816004
+Submission           P1
+Marks                13
+Name: 806, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816004
+Submission           P2
+Marks                13
+Name: 807, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816004
+Submission           P3
+Marks                15
+Name: 808, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816005
+Submission           P1
+Marks                13
+Name: 809, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816005
+Submission           P2
+Marks                13
+Name: 810, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816005
+Submission           P3
+Marks                15
+Name: 811, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816010
+Submission           P4
+Marks                14
+Name: 812, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816010
+Submission           P5
+Marks                13
+Name: 813, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816011
+Submission           P1
+Marks               NAN
+Name: 814, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816011
+Submission           P2
+Marks                13
+Name: 815, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816011
+Submission           P3
+Marks                14
+Name: 816, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816012
+Submission           P1
+Marks                14
+Name: 817, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816012
+Submission           P2
+Marks                13
+Name: 818, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816012
+Submission           P3
+Marks                15
+Name: 819, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816018
+Submission           P1
+Marks                14
+Name: 820, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816018
+Submission           P2
+Marks                15
+Name: 821, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816018
+Submission           P3
+Marks               NAN
+Name: 822, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816019
+Submission           P1
+Marks                15
+Name: 823, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816019
+Submission           P2
+Marks                15
+Name: 824, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816019
+Submission           P3
+Marks                13
+Name: 825, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816020
+Submission           P1
+Marks                14
+Name: 826, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816020
+Submission           P2
+Marks                14
+Name: 827, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816020
+Submission           P3
+Marks                13
+Name: 828, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816021
+Submission           P1
+Marks                15
+Name: 829, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816021
+Submission           P2
+Marks                14
+Name: 830, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816021
+Submission           P3
+Marks               NAN
+Name: 831, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816023
+Submission           P1
+Marks                14
+Name: 832, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816023
+Submission           P2
+Marks                14
+Name: 833, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816023
+Submission           P3
+Marks               NAN
+Name: 834, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816025
+Submission           P1
+Marks                13
+Name: 835, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816025
+Submission           P2
+Marks                14
+Name: 836, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816025
+Submission           P3
+Marks                13
+Name: 837, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816028
+Submission           P4
+Marks                15
+Name: 838, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816028
+Submission           P5
+Marks                14
+Name: 839, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816029
+Submission           P1
+Marks                13
+Name: 840, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816029
+Submission           P2
+Marks               NAN
+Name: 841, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816034
+Submission           P1
+Marks                14
+Name: 842, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816035
+Submission           P1
+Marks                13
+Name: 843, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816035
+Submission           P2
+Marks                13
+Name: 844, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816035
+Submission           P3
+Marks                14
+Name: 845, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816036
+Submission           P4
+Marks                13
+Name: 846, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816036
+Submission           P4
+Marks                15
+Name: 847, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816037
+Submission           P2
+Marks                14
+Name: 848, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816037
+Submission           P5
+Marks                13
+Name: 849, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816038
+Submission           P4
+Marks                15
+Name: 850, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816038
+Submission           P5
+Marks                14
+Name: 851, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816040
+Submission           P4
+Marks                15
+Name: 852, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816040
+Submission           P5
+Marks                13
+Name: 853, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816041
+Submission           P1
+Marks                13
+Name: 854, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816041
+Submission           P2
+Marks                13
+Name: 855, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816041
+Submission           P3
+Marks                13
+Name: 856, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816043
+Submission           P4
+Marks                14
+Name: 857, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816044
+Submission           P4
+Marks                13
+Name: 858, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816044
+Submission           P5
+Marks                14
+Name: 859, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816046
+Submission           P1
+Marks                15
+Name: 860, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816046
+Submission           P2
+Marks                15
+Name: 861, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816046
+Submission           P3
+Marks                13
+Name: 862, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816047
+Submission           P4
+Marks               NAN
+Name: 863, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816047
+Submission           P5
+Marks               NAN
+Name: 864, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816050
+Submission           P4
+Marks                14
+Name: 865, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816050
+Submission           P5
+Marks                14
+Name: 866, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816051
+Submission           P1
+Marks               NAN
+Name: 867, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816051
+Submission           P2
+Marks                13
+Name: 868, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816051
+Submission           P3
+Marks               NAN
+Name: 869, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816052
+Submission           P1
+Marks                14
+Name: 870, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816052
+Submission           P2
+Marks                 0
+Name: 871, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816052
+Submission           P4
+Marks                14
+Name: 872, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816053
+Submission           P4
+Marks                15
+Name: 873, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816053
+Submission           P5
+Marks                15
+Name: 874, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816056
+Submission           P1
+Marks                14
+Name: 875, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101816056
+Submission           P2
+Marks                15
+Name: 876, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853003
+Submission           P1
+Marks                13
+Name: 877, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853003
+Submission           P2
+Marks                15
+Name: 878, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853003
+Submission           P3
+Marks                13
+Name: 879, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853014
+Submission           P4
+Marks                15
+Name: 880, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853016
+Submission           P1
+Marks                14
+Name: 881, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853016
+Submission           P2
+Marks                13
+Name: 882, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853016
+Submission           P4
+Marks                14
+Name: 883, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853018
+Submission           P1
+Marks                14
+Name: 884, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853018
+Submission           P2
+Marks                 -
+Name: 885, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853018
+Submission           P3
+Marks                13
+Name: 886, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853019
+Submission           P1
+Marks                13
+Name: 887, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853019
+Submission           P2
+Marks                15
+Name: 888, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853019
+Submission           P3
+Marks                15
+Name: 889, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853020
+Submission           P1
+Marks                14
+Name: 890, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853020
+Submission           P2
+Marks                15
+Name: 891, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853020
+Submission           P3
+Marks                15
+Name: 892, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853021
+Submission           P1
+Marks                14
+Name: 893, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853021
+Submission           P2
+Marks                14
+Name: 894, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853021
+Submission           P3
+Marks                15
+Name: 895, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853025
+Submission           P1
+Marks                15
+Name: 896, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853025
+Submission           P2
+Marks                14
+Name: 897, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853025
+Submission           P3
+Marks                14
+Name: 898, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853028
+Submission           P4
+Marks                13
+Name: 899, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853028
+Submission           P5
+Marks                13
+Name: 900, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853029
+Submission           P1
+Marks                14
+Name: 901, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853029
+Submission           P2
+Marks                15
+Name: 902, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853029
+Submission           P3
+Marks                13
+Name: 903, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853033
+Submission           P1
+Marks                14
+Name: 904, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853033
+Submission           P2
+Marks                 -
+Name: 905, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853033
+Submission           P3
+Marks                 -
+Name: 906, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853034
+Submission           P1
+Marks                14
+Name: 907, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853034
+Submission           P2
+Marks                13
+Name: 908, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853034
+Submission           P3
+Marks                15
+Name: 909, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853035
+Submission           P1
+Marks                14
+Name: 910, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853035
+Submission           P2
+Marks                14
+Name: 911, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853035
+Submission           P3
+Marks                14
+Name: 912, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853037
+Submission           P1
+Marks                13
+Name: 913, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853037
+Submission           P2
+Marks                14
+Name: 914, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853037
+Submission           P3
+Marks                15
+Name: 915, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853039
+Submission           P1
+Marks                13
+Name: 916, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853039
+Submission           P2
+Marks                13
+Name: 917, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101853039
+Submission           P3
+Marks                15
+Name: 918, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866002
+Submission           P4
+Marks                14
+Name: 919, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866002
+Submission           P5
+Marks                14
+Name: 920, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866007
+Submission           P1
+Marks                13
+Name: 921, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866007
+Submission           P2
+Marks                 -
+Name: 922, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866007
+Submission           P3
+Marks                15
+Name: 923, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866007
+Submission           P4
+Marks                15
+Name: 924, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866008
+Submission           P1
+Marks                15
+Name: 925, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866008
+Submission           P2
+Marks                13
+Name: 926, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866008
+Submission           P3
+Marks                13
+Name: 927, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866009
+Submission           P2
+Marks                15
+Name: 928, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866009
+Submission           P3
+Marks                13
+Name: 929, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866009
+Submission           P5
+Marks                13
+Name: 930, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866010
+Submission           P4
+Marks                14
+Name: 931, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866010
+Submission           P5
+Marks                15
+Name: 932, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866011
+Submission           P1
+Marks                15
+Name: 933, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866011
+Submission           P2
+Marks                13
+Name: 934, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866011
+Submission           P3
+Marks                 -
+Name: 935, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866012
+Submission           P1
+Marks                13
+Name: 936, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866012
+Submission           P2
+Marks                 -
+Name: 937, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866012
+Submission           P3
+Marks                14
+Name: 938, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866014
+Submission           P4
+Marks                14
+Name: 939, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866014
+Submission           P5
+Marks                 -
+Name: 940, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866015
+Submission           P1
+Marks                13
+Name: 941, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866015
+Submission           P2
+Marks                13
+Name: 942, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866015
+Submission           P3
+Marks                14
+Name: 943, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866017
+Submission           P1
+Marks                13
+Name: 944, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866017
+Submission           P2
+Marks                15
+Name: 945, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866018
+Submission           P4
+Marks                13
+Name: 946, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866018
+Submission           P5
+Marks                15
+Name: 947, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866019
+Submission           P1
+Marks                 -
+Name: 948, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866019
+Submission           P2
+Marks                14
+Name: 949, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866019
+Submission           P4
+Marks                15
+Name: 950, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866020
+Submission           P1
+Marks                15
+Name: 951, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866020
+Submission           P2
+Marks                 -
+Name: 952, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101866020
+Submission           P3
+Marks                 -
+Name: 953, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983011
+Submission           P1
+Marks                14
+Name: 954, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983011
+Submission           P2
+Marks                14
+Name: 955, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983011
+Submission           P3
+Marks                 -
+Name: 956, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983018
+Submission           P1
+Marks                13
+Name: 957, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983018
+Submission           P2
+Marks                13
+Name: 958, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983018
+Submission           P3
+Marks                 -
+Name: 959, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983021
+Submission           P1
+Marks                14
+Name: 960, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983021
+Submission           P2
+Marks                14
+Name: 961, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983021
+Submission           P3
+Marks                14
+Name: 962, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983029
+Submission           P1
+Marks                14
+Name: 963, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983029
+Submission           P2
+Marks                13
+Name: 964, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983029
+Submission           P4
+Marks                13
+Name: 965, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983031
+Submission           P1
+Marks                13
+Name: 966, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983031
+Submission           P2
+Marks                13
+Name: 967, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983031
+Submission           P3
+Marks                14
+Name: 968, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983033
+Submission           P4
+Marks                13
+Name: 969, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983033
+Submission           P5
+Marks                 -
+Name: 970, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983034
+Submission           P1
+Marks                13
+Name: 971, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983034
+Submission           P2
+Marks                13
+Name: 972, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983034
+Submission           P3
+Marks                 -
+Name: 973, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983036
+Submission           P4
+Marks                14
+Name: 974, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983036
+Submission           P5
+Marks                14
+Name: 975, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983041
+Submission           P1
+Marks                13
+Name: 976, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983041
+Submission           P2
+Marks                15
+Name: 977, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983041
+Submission           P3
+Marks                13
+Name: 978, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983042
+Submission           P1
+Marks                15
+Name: 979, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983042
+Submission           P2
+Marks                15
+Name: 980, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983042
+Submission           P3
+Marks                13
+Name: 981, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983043
+Submission           P4
+Marks                14
+Name: 982, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983043
+Submission           P5
+Marks                 -
+Name: 983, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983044
+Submission           P1
+Marks                 -
+Name: 984, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983044
+Submission           P2
+Marks                13
+Name: 985, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983044
+Submission           P3
+Marks                13
+Name: 986, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983045
+Submission           P1
+Marks                13
+Name: 987, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983045
+Submission           P2
+Marks                15
+Name: 988, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983045
+Submission           P3
+Marks                14
+Name: 989, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983047
+Submission           P1
+Marks                13
+Name: 990, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983047
+Submission           P2
+Marks                15
+Name: 991, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983047
+Submission           P3
+Marks                13
+Name: 992, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983048
+Submission           P1
+Marks                13
+Name: 993, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983050
+Submission           P1
+Marks                13
+Name: 994, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983050
+Submission           P2
+Marks                14
+Name: 995, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983050
+Submission           P3
+Marks                14
+Name: 996, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983051
+Submission           P1
+Marks                15
+Name: 997, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983051
+Submission           P2
+Marks                15
+Name: 998, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983051
+Submission           P3
+Marks                13
+Name: 999, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983052
+Submission           P1
+Marks                13
+Name: 1000, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983052
+Submission           P2
+Marks                14
+Name: 1001, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983052
+Submission           P3
+Marks                15
+Name: 1002, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983054
+Submission           P1
+Marks                13
+Name: 1003, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983054
+Submission           P2
+Marks                14
+Name: 1004, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983054
+Submission           P3
+Marks                14
+Name: 1005, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983056
+Submission           P1
+Marks                15
+Name: 1006, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983056
+Submission           P2
+Marks                13
+Name: 1007, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983056
+Submission           P3
+Marks                14
+Name: 1008, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983058
+Submission           P1
+Marks                13
+Name: 1009, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983058
+Submission           P2
+Marks                13
+Name: 1010, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983058
+Submission           P3
+Marks                15
+Name: 1011, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983060
+Submission           P4
+Marks                15
+Name: 1012, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983060
+Submission           P5
+Marks                13
+Name: 1013, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983061
+Submission           P1
+Marks                13
+Name: 1014, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983061
+Submission           P2
+Marks                14
+Name: 1015, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983061
+Submission           P3
+Marks                 0
+Name: 1016, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983062
+Submission           P1
+Marks                13
+Name: 1017, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983062
+Submission           P2
+Marks                14
+Name: 1018, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983062
+Submission           P3
+Marks                13
+Name: 1019, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983063
+Submission           P1
+Marks                15
+Name: 1020, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983063
+Submission           P2
+Marks                 -
+Name: 1021, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983063
+Submission           P3
+Marks                15
+Name: 1022, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983065
+Submission           P1
+Marks                15
+Name: 1023, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983065
+Submission           P2
+Marks                14
+Name: 1024, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    101983065
+Submission           P3
+Marks                13
+Name: 1025, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803008
+Submission           P1
+Marks                15
+Name: 1026, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803008
+Submission           P2
+Marks                14
+Name: 1027, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803008
+Submission           P3
+Marks                13
+Name: 1028, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803010
+Submission           P1
+Marks                14
+Name: 1029, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803010
+Submission           P2
+Marks                13
+Name: 1030, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803010
+Submission           P3
+Marks                13
+Name: 1031, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803023
+Submission           P1
+Marks                15
+Name: 1032, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803023
+Submission           P2
+Marks                15
+Name: 1033, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803023
+Submission           P3
+Marks                14
+Name: 1034, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803026
+Submission           P1
+Marks                14
+Name: 1035, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803026
+Submission           P2
+Marks                14
+Name: 1036, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803026
+Submission           P3
+Marks                 -
+Name: 1037, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803034
+Submission           P1
+Marks                14
+Name: 1038, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803034
+Submission           P2
+Marks                 -
+Name: 1039, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803034
+Submission           P3
+Marks                15
+Name: 1040, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803036
+Submission           P4
+Marks                15
+Name: 1041, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401803036
+Submission           P5
+Marks                15
+Name: 1042, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401853002
+Submission           P1
+Marks                15
+Name: 1043, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401853002
+Submission           P2
+Marks                13
+Name: 1044, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401853006
+Submission           P1
+Marks                14
+Name: 1045, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401853006
+Submission           P3
+Marks                13
+Name: 1046, dtype: object
+WARNING:root:RollNumber are not numeric RollNumber    401863006
+Submission           P2
+Marks                15
+Name: 1047, dtype: object
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+WARNING:root:P1 ---> 323 non numeric value
+WARNING:root:P2 ---> 322 non numeric value
+WARNING:root:P3 ---> 303 non numeric value
+WARNING:root:P4 ---> 58 non numeric value
+WARNING:root:P5 ---> 42 non numeric value
+INFO:root:missing values corresponding subjects are: [0, 0, 0, 0, 0]
+INFO:root:non_numeric values corresponding subjects are: [323, 322, 303, 58, 42]
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+WARNING:root:P1 ---> 323 non numeric value
+WARNING:root:P2 ---> 322 non numeric value
+WARNING:root:P3 ---> 303 non numeric value
+WARNING:root:P4 ---> 58 non numeric value
+WARNING:root:P5 ---> 42 non numeric value
+INFO:root:missing values corresponding subjects are: [0, 0, 0, 0, 0]
+INFO:root:non_numeric values corresponding subjects are: [323, 322, 303, 58, 42]
+WARNING:root:Marks are not numeric RollNumber    101803003
+Submission           P2
+Marks                 X
+Name: 4, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803003
+Submission           P3
+Marks                 X
+Name: 5, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803005
+Submission           P1
+Marks                 X
+Name: 9, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803006
+Submission           P2
+Marks                 X
+Name: 13, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803011
+Submission           P2
+Marks                 X
+Name: 22, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803047
+Submission           P2
+Marks                 X
+Name: 64, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803047
+Submission           P3
+Marks                 X
+Name: 65, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803049
+Submission           P2
+Marks                 X
+Name: 70, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803059
+Submission           P5
+Marks                 X
+Name: 76, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803064
+Submission           P4
+Marks                 X
+Name: 82, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803089
+Submission           P1
+Marks                 X
+Name: 92, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803089
+Submission           P3
+Marks                 X
+Name: 94, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803099
+Submission           P1
+Marks                 X
+Name: 100, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803111
+Submission           P2
+Marks                 X
+Name: 125, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803115
+Submission           P1
+Marks                 X
+Name: 130, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803116
+Submission           P2
+Marks                 X
+Name: 134, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803137
+Submission           P1
+Marks                 X
+Name: 159, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803141
+Submission           P2
+Marks                 X
+Name: 167, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803151
+Submission           P1
+Marks                 X
+Name: 182, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803151
+Submission           P3
+Marks                 X
+Name: 184, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803154
+Submission           P1
+Marks                 X
+Name: 188, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803156
+Submission           P1
+Marks                 X
+Name: 191, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803156
+Submission           P3
+Marks                 X
+Name: 193, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803159
+Submission           P2
+Marks                 X
+Name: 201, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803162
+Submission           P5
+Marks                 X
+Name: 204, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803166
+Submission           P4
+Marks                 X
+Name: 211, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803171
+Submission           P2
+Marks                 X
+Name: 223, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803174
+Submission           P2
+Marks               NaN
+Name: 228, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803174
+Submission           P3
+Marks               NaN
+Name: 229, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803184
+Submission           P3
+Marks               NaN
+Name: 240, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803189
+Submission           P5
+Marks               NaN
+Name: 246, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803191
+Submission           P1
+Marks               NaN
+Name: 250, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803193
+Submission           P1
+Marks               NaN
+Name: 255, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803201
+Submission           P2
+Marks               NaN
+Name: 259, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803206
+Submission           P1
+Marks               NaN
+Name: 264, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803209
+Submission           P1
+Marks               NaN
+Name: 270, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803215
+Submission           P3
+Marks               NaN
+Name: 281, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803217
+Submission           P1
+Marks               NaN
+Name: 285, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803225
+Submission           P2
+Marks               NaN
+Name: 292, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803233
+Submission           P1
+Marks               NaN
+Name: 297, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803233
+Submission           P3
+Marks               NaN
+Name: 299, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803234
+Submission           P3
+Marks               NaN
+Name: 302, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803243
+Submission           P1
+Marks               NaN
+Name: 306, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803281
+Submission           P1
+Marks               NaN
+Name: 346, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803308
+Submission           P1
+Marks               NaN
+Name: 366, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803315
+Submission           P3
+Marks               NaN
+Name: 370, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803319
+Submission           P3
+Marks               NaN
+Name: 376, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803342
+Submission           P3
+Marks               NaN
+Name: 395, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803390
+Submission           P3
+Marks               NaN
+Name: 428, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803397
+Submission           P2
+Marks               NaN
+Name: 433, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803401
+Submission           P2
+Marks               NaN
+Name: 438, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803401
+Submission           P3
+Marks               NaN
+Name: 439, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803407
+Submission           P1
+Marks               NaN
+Name: 446, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803407
+Submission           P3
+Marks               NaN
+Name: 448, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803431
+Submission           P1
+Marks               NaN
+Name: 470, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803440
+Submission           P1
+Marks               NaN
+Name: 475, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803457
+Submission           P2
+Marks               NaN
+Name: 488, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803457
+Submission           P3
+Marks               NaN
+Name: 489, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803461
+Submission           P2
+Marks               NaN
+Name: 491, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803469
+Submission           P2
+Marks               NAN
+Name: 500, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803470
+Submission           P3
+Marks               NAN
+Name: 504, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803476
+Submission           P5
+Marks               NAN
+Name: 512, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803479
+Submission           P2
+Marks               NAN
+Name: 514, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803487
+Submission           P2
+Marks               NAN
+Name: 520, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803492
+Submission           P1
+Marks               NAN
+Name: 525, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803499
+Submission           P3
+Marks               NAN
+Name: 536, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803511
+Submission           P4
+Marks               NAN
+Name: 549, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803511
+Submission           P5
+Marks               NAN
+Name: 550, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803512
+Submission           P1
+Marks               NAN
+Name: 551, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803542
+Submission           P3
+Marks               NAN
+Name: 580, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803564
+Submission           P1
+Marks               NAN
+Name: 606, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803575
+Submission           P3
+Marks               NAN
+Name: 616, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803579
+Submission           P3
+Marks               NAN
+Name: 619, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803580
+Submission           P2
+Marks               NAN
+Name: 621, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803590
+Submission           P1
+Marks               NAN
+Name: 632, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803590
+Submission           P3
+Marks               NAN
+Name: 634, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803601
+Submission           P2
+Marks               NAN
+Name: 654, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803603
+Submission           P3
+Marks               NAN
+Name: 658, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803611
+Submission           P2
+Marks               NAN
+Name: 677, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803613
+Submission           P3
+Marks               NAN
+Name: 681, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803614
+Submission           P2
+Marks               NAN
+Name: 683, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803624
+Submission           P2
+Marks               NAN
+Name: 698, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803644
+Submission           P3
+Marks               NAN
+Name: 717, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803660
+Submission           P2
+Marks               NAN
+Name: 727, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803660
+Submission           P3
+Marks               NAN
+Name: 728, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803671
+Submission           P1
+Marks               NAN
+Name: 735, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803685
+Submission           P2
+Marks               NAN
+Name: 748, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803689
+Submission           P2
+Marks               NAN
+Name: 757, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803689
+Submission           P3
+Marks               NAN
+Name: 758, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803691
+Submission           P1
+Marks               NAN
+Name: 762, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101803692
+Submission           P3
+Marks               NAN
+Name: 767, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816011
+Submission           P1
+Marks               NAN
+Name: 814, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816018
+Submission           P3
+Marks               NAN
+Name: 822, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816021
+Submission           P3
+Marks               NAN
+Name: 831, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816023
+Submission           P3
+Marks               NAN
+Name: 834, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816029
+Submission           P2
+Marks               NAN
+Name: 841, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816047
+Submission           P4
+Marks               NAN
+Name: 863, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816047
+Submission           P5
+Marks               NAN
+Name: 864, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816051
+Submission           P1
+Marks               NAN
+Name: 867, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101816051
+Submission           P3
+Marks               NAN
+Name: 869, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101853018
+Submission           P2
+Marks                 -
+Name: 885, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101853033
+Submission           P2
+Marks                 -
+Name: 905, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101853033
+Submission           P3
+Marks                 -
+Name: 906, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101866007
+Submission           P2
+Marks                 -
+Name: 922, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101866011
+Submission           P3
+Marks                 -
+Name: 935, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101866012
+Submission           P2
+Marks                 -
+Name: 937, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101866014
+Submission           P5
+Marks                 -
+Name: 940, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101866019
+Submission           P1
+Marks                 -
+Name: 948, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101866020
+Submission           P2
+Marks                 -
+Name: 952, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101866020
+Submission           P3
+Marks                 -
+Name: 953, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101983011
+Submission           P3
+Marks                 -
+Name: 956, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101983018
+Submission           P3
+Marks                 -
+Name: 959, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101983033
+Submission           P5
+Marks                 -
+Name: 970, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101983034
+Submission           P3
+Marks                 -
+Name: 973, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101983043
+Submission           P5
+Marks                 -
+Name: 983, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101983044
+Submission           P1
+Marks                 -
+Name: 984, dtype: object
+WARNING:root:Marks are not numeric RollNumber    101983063
+Submission           P2
+Marks                 -
+Name: 1021, dtype: object
+WARNING:root:Marks are not numeric RollNumber    401803026
+Submission           P3
+Marks                 -
+Name: 1037, dtype: object
+WARNING:root:Marks are not numeric RollNumber    401803034
+Submission           P2
+Marks                 -
+Name: 1039, dtype: object
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+INFO:root:{key} ---> {value} missing value
+WARNING:root:P1 ---> 10 non numeric value
+WARNING:root:P2 ---> 17 non numeric value
+WARNING:root:P3 ---> 12 non numeric value
+WARNING:root:P4 ---> 2 non numeric value
+WARNING:root:P5 ---> 5 non numeric value
+INFO:root:missing values corresponding subjects are: [20, 19, 28, 2, 4]
+INFO:root:non_numeric values corresponding subjects are: [10, 17, 12, 2, 5]
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
