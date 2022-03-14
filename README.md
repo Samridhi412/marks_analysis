@@ -1,6 +1,8 @@
 # marks_analysis
 input file
-RollNumber|Submission|Marks
+-------------------
+|RollNumber| Submission |Marks
+| :------------- |:-------------|
 101803002|P1|13
 101803002|P2|14
 101803002|P3|14
@@ -16,7 +18,9 @@ RollNumber|Submission|Marks
 101803006|P1|15
 
 output file
-RollNumber|P1|P2|P3|P4|P5
+-------------------
+| RollNumber        | P1 |P2|P3|P4|P5
+| :------------- |:-------------|
 101803002|13|14|14|0|0
 101803003|13|15|13|0|0
 101803004|13|13|15|0|0
